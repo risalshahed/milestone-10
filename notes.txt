@@ -1,0 +1,10 @@
+steps (Build -> Authentication -> Web -> Get Started)
+create a firebase project & register your app
+npm install firebase
+see details on https://firebase.google.com/docs/web/setup?authuser=0#add-sdk-and-initialize
+
+google sign in jodi ekbr permission diye dei, kono website a, erpore oi website a giye sign in dlei auto login hoye jabe!
+BUT, if we wanna prevent this auto login..
+i. go to accounts.google.com; go to security tab
+ii. click on the webpage/project you wanna remove, click on "Remove Access"
+
